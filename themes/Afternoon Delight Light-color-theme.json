@@ -775,7 +775,7 @@
 			"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 		  ],
 		  "settings": {
-			"foreground": "#f39f64" // #e68a48 // JAVASCRIPT String color
+			"foreground": "#e68a48" // #e68a48 // JAVASCRIPT String color
 		  }
 		},
 		{
