@@ -1,0 +1,21 @@
+{
+  "name": "afternoon-delight",
+  "displayName": "Afternoon Delight",
+  "description": "A theme for the colourful minimalist!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Afternoon Delight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Afternoon Delight-color-theme.json"
+      }
+    ]
+  }
+}
