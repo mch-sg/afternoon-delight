@@ -3,7 +3,7 @@
   "publisher": "magnush",
   "displayName": "Afternoon Delight",
   "description": "A theme for the colourful minimalist!",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -33,12 +33,7 @@
       {
         "label": "Afternoon Delight",
         "uiTheme": "vs-dark",
-        "path": "./themes/Afternoon Delight-color-theme.json"
-      },
-      {
-        "label": "Afternoon Delight Light",
-        "uiTheme": "vs",
-        "path": "./themes/Afternoon Delight Light-color-theme.json"
+        "path": "./themes/afternoon-delight-subtle.json"
       }
     ]
   }

@@ -1,4 +1,4 @@
-<img alt="Lunar Logo" src="https://i.imgur.com/8Z0a1ji.png" width="90" />
+<img alt="Afternoon Delight Logo" src="https://i.imgur.com/BZJcKlv.png" width="90" />
 
 # Afternoon Delight
 
@@ -25,11 +25,17 @@ Recommended Settings: <br>
 
 # Demo
 
-<img src="https://i.imgur.com/4QsTf9J.png" />
+<img src="https://i.imgur.com/XiaDs9W.png" />
 <br />
-<img src="https://i.imgur.com/QYqso4s.png" />
+<img src="https://i.imgur.com/x7iosF9.png" />
 <br />
-<img src="https://i.imgur.com/RkjdBGh.png" />
+<img src="https://i.imgur.com/GhIcCa2.png" />
+<br />
+<img src="https://i.imgur.com/uZMnJRu.png" />
+<br />
+<img src="https://i.imgur.com/evBrtaY.png" />
+<br />
+<img src="https://i.imgur.com/udyDOR9.png" />
 
 <br /> 
 
