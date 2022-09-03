@@ -1,4 +1,4 @@
-<img alt="Afternoon Delight Logo" src="https://i.imgur.com/BZJcKlv.png" width="90" />
+<!-- <img alt="Afternoon Delight Logo" src="https://i.imgur.com/BZJcKlv.png" width="90" /> -->
 
 # Afternoon Delight
 
