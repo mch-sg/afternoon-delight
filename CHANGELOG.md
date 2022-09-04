@@ -17,8 +17,15 @@ All notable changes to the "afternoon-delight" extension will be documented in t
 
 
 
-## [1.1.0] - 2022-09-04
+## [2.0.0] - 2022-09-04
 ### Changed
 
 - MAJOR patch: `colors and navigation`
 - Began theme: `Afternoon Delight Light`
+
+
+
+## [2.0.1] - 2022-09-04
+### Changed
+
+- MAJOR patch: `colors and navigation`

@@ -3,7 +3,7 @@
   "publisher": "magnush",
   "displayName": "Afternoon Delight",
   "description": "A theme for the colourful minimalist!",
-  "version": "1.1.0",
+  "version": "2.0.1",
   "engines": {
     "vscode": "^1.71.0"
   },
