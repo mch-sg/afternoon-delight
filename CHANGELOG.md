@@ -29,3 +29,10 @@ All notable changes to the "afternoon-delight" extension will be documented in t
 ### Changed
 
 - MAJOR patch: `colors and navigation`
+
+
+
+## [2.0.2] - 2022-09-09
+### Changed
+
+- PATCH: `Theme icons`
